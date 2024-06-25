@@ -1,2 +1,2 @@
-# AV2
-Atividade Avaliativa Segundo trimestre
+# Segundotrimestre2
+Repositório conteúdo segundo trimestre segundos anos programação I
